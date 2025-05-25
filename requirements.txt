@@ -1,0 +1,4 @@
+ flask
+ flask-mysqldb
+ pymysql
+ ollama   # ollama CLI 라이브러리
